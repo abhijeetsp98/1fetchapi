@@ -1,9 +1,9 @@
 # Basic react applicaton to fetch data from API and render on UI
-https://shimmering-begonia-116caf.netlify.app/
+DEMO : https://shimmering-begonia-116caf.netlify.app/
 
-1. Fetch data from API and render on UI
+AIM: Fetch data from API and render on UI
+
 ## Notes
-
 1 create a project using "npx create-react-app .<br />
 2 remove src folder and create <br />
 *     create new src folder and add index.js file where root div is linked to app component of react<br />
